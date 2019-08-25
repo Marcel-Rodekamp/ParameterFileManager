@@ -1,0 +1,12 @@
+# Comments start with a '#' sign
+Int Parameter = 10
+
+# Empty lines are okay
+Float Parameter = 1.5
+
+# The parameter can have many variables stored in a std::vector
+Double Vector Parameter = 0.0 0.1 0.2 0.3 3.1415
+
+# The LValue must match one of the strings given in exampleUserParameter.h
+# in constructor
+String Parameter = someString
